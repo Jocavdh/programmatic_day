@@ -23,5 +23,6 @@ The script is written for Python 3. To install the required libraries run 'pip3 
 
 This script is one of the experiments I did to learn about webscraping using Python, and using the material in derivative work. I'd like to thank the following people for their examples:
 
-* Ryan Newton, for [his post]([https://medium.com/@vonkunesnewton/generating-pdfs-with-reportlab-ced3b04aedef) on generating pdf's with ReportLab
-* Code examples for [the snippet]([https://code-examples.net/en/q/1d8c52) to let Beautifulsoup only fetch visible elements
+* Ryan Newton, for [his post]([https://medium.com/@vonkunesnewton/generating-pdfs-with-reportlab-ced3b04aedef) on generating pdf's with ReportLab.
+* Code examples for [the snippet]([https://code-examples.net/en/q/1d8c52) to let Beautifulsoup only fetch visible elements.
+* Kenneth Goldsmith, for retyping the NY Times word for word, letter for letter.
